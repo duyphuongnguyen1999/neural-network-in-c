@@ -1,1 +1,1 @@
-# machine-learning-in-C
+# Mutlti Layer Perceptron
